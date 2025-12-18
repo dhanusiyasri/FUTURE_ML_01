@@ -1,4 +1,4 @@
-# 📊 AI-Powered Sales Forecasting Dashboard
+#Task-1: 📊 AI-Powered Sales Forecasting Dashboard
 
 ## 📌 Project Overview
 This project demonstrates an **end-to-end sales forecasting and business intelligence solution**.  
@@ -70,7 +70,7 @@ The dataset contains **transaction-level data** with multiple orders per day.
 ---
 
 ## 🔄 Project Workflow
-Raw Sales Data
+- Raw Sales Data
 - Data Cleaning
 - Daily Sales Aggregation
 - Time Series Forecasting (Prophet)
@@ -198,11 +198,6 @@ These visuals explicitly represent the **seasonality learned by the forecasting 
 
 ---
 
-## 🎤 Interview / Resume Summary
-> Developed an AI-powered sales forecasting solution using Prophet for time-series prediction and Power BI for interactive visualization, including seasonality analysis, confidence intervals, and a professionally designed dashboard.
-
----
-
 ## 📬 Acknowledgment
 This project was completed as part of **Future Interns – Machine Learning Task 1**, focusing on practical implementation of forecasting and analytics concepts.
 
@@ -211,3 +206,4 @@ This project was completed as part of **Future Interns – Machine Learning Task
 ## 👤 Author
 **Dhanusiya Sri M**  
 Machine Learning & Data Analytics Enthusiast
+
