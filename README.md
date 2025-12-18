@@ -1,4 +1,4 @@
-#Task-1: 📊 AI-Powered Sales Forecasting Dashboard
+# Task-1: 📊 AI-Powered Sales Forecasting Dashboard
 
 ## 📌 Project Overview
 This project demonstrates an **end-to-end sales forecasting and business intelligence solution**.  
@@ -206,4 +206,5 @@ This project was completed as part of **Future Interns – Machine Learning Task
 ## 👤 Author
 **Dhanusiya Sri M**  
 Machine Learning & Data Analytics Enthusiast
+
 
